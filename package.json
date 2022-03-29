@@ -8,10 +8,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lodash.shuffle": "^4.2.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
+    "@types/lodash.shuffle": "^4.2.6",
     "@types/react": "^17.0.33",
     "@types/react-dom": "^17.0.10",
     "@typescript-eslint/eslint-plugin": "^5.17.0",
@@ -21,6 +23,7 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-react": "^7.28.0",
     "prettier": "^2.6.1",
+    "sass": "^1.49.9",
     "typescript": "^4.5.4",
     "vite": "^2.8.0"
   }
